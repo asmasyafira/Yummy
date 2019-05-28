@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Yummy</string>
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+    <string name="name">Name</string>
+    <string name="nameMenu">Nama Menu</string>
+    <string name="descMenu">Isi Menu</string>
+    <string name="nameGrid">Nama Grid</string>
+</resources>
